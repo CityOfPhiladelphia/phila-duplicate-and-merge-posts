@@ -1,0 +1,7 @@
+{
+  "name": "CityOfPhiladelphia/duplicate-and-merge-posts",
+  "type": "wordpress-plugin",
+  "require": {
+      "composer/installers": "~1.0"
+  }
+}
